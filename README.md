@@ -63,6 +63,6 @@ This project demonstrates how the array elements are inserted step-by-step into 
 - Right: **3**
 - Left: **2**  
 - Right: **4**  
-    - Right child: **6**  
-  - Right child: **8**  
-    - Right: **9**
+- Right child: **6**  
+- Right child: **8**  
+- Right: **9**
